@@ -1,4 +1,4 @@
-#include "speed_control.h" e
+#include "speed_control.h" 
 #include <math.h>       /* sin */
 
 /*定义分解速度结构体*/ 
