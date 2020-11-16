@@ -1,4 +1,4 @@
-#ifnded __SPEED_CONTROL_H__
+#ifndef __SPEED_CONTROL_H__
 #define __SPEED_CONTROL_H__
 
 typedef struct
@@ -8,4 +8,4 @@ typedef struct
 }depart;
 
 void limited_speed(int mode,float angle);
-#endifh
+#endif
